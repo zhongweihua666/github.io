@@ -1,0 +1,13 @@
+/* CSS Document */
+.tzyh{width:100%; clear:both;}
+body{ background:#d7b889; text-align:center;}
+.daohang{ width:960px; height:51px; background:#34130a;}
+.daohang table{ margin-left:20px;}
+.daohang a{ color:#fff; font-weight:bold; font-size:14px; text-decoration:none;}
+.daohang a.baise{ background:#fff; display:block; color:#34130a; height:30px; line-height:30px;}
+.wdxc{ margin:30px 50px; text-align:center; height:400px;}
+.wdxc tr td img{ display:block; text-align:center; margin-bottom:10px;}
+.zc{ padding:30px;}
+.zc h2{ text-align:center;}
+.zc p{ font-size:12px; line-height:24px;}
+.wz{ font-size:12px; line-height:24px; margin:40px 70px 20px 20px;}
